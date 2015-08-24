@@ -1,4 +1,4 @@
-class TerraformProviderExecute < Formula
+class TerraformProviderCoreos < Formula
   desc "Get latest coreos ami for region"
   homepage "https://github.com/bakins/terraform-provider-coreos"
   url "https://s3-us-west-2.amazonaws.com/brewtaps/terraform-provider-coreos/terraform-provider-coreos.tar.gz"
